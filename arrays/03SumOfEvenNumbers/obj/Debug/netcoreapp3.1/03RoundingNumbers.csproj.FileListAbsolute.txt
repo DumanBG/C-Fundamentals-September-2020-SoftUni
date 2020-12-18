@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03SumOfEvenNumbers\bin\Debug\netcoreapp3.1\03RoundingNumbers.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03SumOfEvenNumbers\bin\Debug\netcoreapp3.1\03RoundingNumbers.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03SumOfEvenNumbers\bin\Debug\netcoreapp3.1\03RoundingNumbers.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03SumOfEvenNumbers\bin\Debug\netcoreapp3.1\03RoundingNumbers.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03SumOfEvenNumbers\bin\Debug\netcoreapp3.1\03RoundingNumbers.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03SumOfEvenNumbers\bin\Debug\netcoreapp3.1\03RoundingNumbers.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03SumOfEvenNumbers\obj\Debug\netcoreapp3.1\03RoundingNumbers.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03SumOfEvenNumbers\obj\Debug\netcoreapp3.1\03RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03SumOfEvenNumbers\obj\Debug\netcoreapp3.1\03RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03SumOfEvenNumbers\obj\Debug\netcoreapp3.1\03RoundingNumbers.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03SumOfEvenNumbers\obj\Debug\netcoreapp3.1\03RoundingNumbers.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03SumOfEvenNumbers\obj\Debug\netcoreapp3.1\03RoundingNumbers.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03SumOfEvenNumbers\obj\Debug\netcoreapp3.1\03RoundingNumbers.genruntimeconfig.cache
