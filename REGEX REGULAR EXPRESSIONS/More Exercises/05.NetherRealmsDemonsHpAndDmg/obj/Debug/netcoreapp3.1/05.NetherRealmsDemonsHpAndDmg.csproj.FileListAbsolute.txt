@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05.NetherRealmsDemonsHpAndDmg\bin\Debug\netcoreapp3.1\05.NetherRealmsDemonsHpAndDmg.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05.NetherRealmsDemonsHpAndDmg\bin\Debug\netcoreapp3.1\05.NetherRealmsDemonsHpAndDmg.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05.NetherRealmsDemonsHpAndDmg\bin\Debug\netcoreapp3.1\05.NetherRealmsDemonsHpAndDmg.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05.NetherRealmsDemonsHpAndDmg\bin\Debug\netcoreapp3.1\05.NetherRealmsDemonsHpAndDmg.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05.NetherRealmsDemonsHpAndDmg\bin\Debug\netcoreapp3.1\05.NetherRealmsDemonsHpAndDmg.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05.NetherRealmsDemonsHpAndDmg\bin\Debug\netcoreapp3.1\05.NetherRealmsDemonsHpAndDmg.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05.NetherRealmsDemonsHpAndDmg\obj\Debug\netcoreapp3.1\05.NetherRealmsDemonsHpAndDmg.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05.NetherRealmsDemonsHpAndDmg\obj\Debug\netcoreapp3.1\05.NetherRealmsDemonsHpAndDmg.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05.NetherRealmsDemonsHpAndDmg\obj\Debug\netcoreapp3.1\05.NetherRealmsDemonsHpAndDmg.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05.NetherRealmsDemonsHpAndDmg\obj\Debug\netcoreapp3.1\05.NetherRealmsDemonsHpAndDmg.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05.NetherRealmsDemonsHpAndDmg\obj\Debug\netcoreapp3.1\05.NetherRealmsDemonsHpAndDmg.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05.NetherRealmsDemonsHpAndDmg\obj\Debug\netcoreapp3.1\05.NetherRealmsDemonsHpAndDmg.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05.NetherRealmsDemonsHpAndDmg\obj\Debug\netcoreapp3.1\05.NetherRealmsDemonsHpAndDmg.genruntimeconfig.cache

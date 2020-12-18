@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\06.ExtractEmailsFindEmailByText\bin\Debug\netcoreapp3.1\06.ExtractEmailsFindEmailByText.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\06.ExtractEmailsFindEmailByText\bin\Debug\netcoreapp3.1\06.ExtractEmailsFindEmailByText.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\06.ExtractEmailsFindEmailByText\bin\Debug\netcoreapp3.1\06.ExtractEmailsFindEmailByText.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\06.ExtractEmailsFindEmailByText\bin\Debug\netcoreapp3.1\06.ExtractEmailsFindEmailByText.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\06.ExtractEmailsFindEmailByText\bin\Debug\netcoreapp3.1\06.ExtractEmailsFindEmailByText.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\06.ExtractEmailsFindEmailByText\bin\Debug\netcoreapp3.1\06.ExtractEmailsFindEmailByText.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\06.ExtractEmailsFindEmailByText\obj\Debug\netcoreapp3.1\06.ExtractEmailsFindEmailByText.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\06.ExtractEmailsFindEmailByText\obj\Debug\netcoreapp3.1\06.ExtractEmailsFindEmailByText.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\06.ExtractEmailsFindEmailByText\obj\Debug\netcoreapp3.1\06.ExtractEmailsFindEmailByText.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\06.ExtractEmailsFindEmailByText\obj\Debug\netcoreapp3.1\06.ExtractEmailsFindEmailByText.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\06.ExtractEmailsFindEmailByText\obj\Debug\netcoreapp3.1\06.ExtractEmailsFindEmailByText.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\06.ExtractEmailsFindEmailByText\obj\Debug\netcoreapp3.1\06.ExtractEmailsFindEmailByText.genruntimeconfig.cache
