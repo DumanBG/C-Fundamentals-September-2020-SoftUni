@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.genruntimeconfig.cache
