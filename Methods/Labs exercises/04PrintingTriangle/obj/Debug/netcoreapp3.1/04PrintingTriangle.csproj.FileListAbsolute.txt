@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04PrintingTriangle\bin\Debug\netcoreapp3.1\04PrintingTriangle.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04PrintingTriangle\bin\Debug\netcoreapp3.1\04PrintingTriangle.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04PrintingTriangle\bin\Debug\netcoreapp3.1\04PrintingTriangle.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04PrintingTriangle\bin\Debug\netcoreapp3.1\04PrintingTriangle.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04PrintingTriangle\bin\Debug\netcoreapp3.1\04PrintingTriangle.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04PrintingTriangle\bin\Debug\netcoreapp3.1\04PrintingTriangle.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04PrintingTriangle\obj\Debug\netcoreapp3.1\04PrintingTriangle.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04PrintingTriangle\obj\Debug\netcoreapp3.1\04PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04PrintingTriangle\obj\Debug\netcoreapp3.1\04PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04PrintingTriangle\obj\Debug\netcoreapp3.1\04PrintingTriangle.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04PrintingTriangle\obj\Debug\netcoreapp3.1\04PrintingTriangle.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04PrintingTriangle\obj\Debug\netcoreapp3.1\04PrintingTriangle.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04PrintingTriangle\obj\Debug\netcoreapp3.1\04PrintingTriangle.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05Orders\obj\Debug\netcoreapp3.1\05Orders.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05Orders\obj\Debug\netcoreapp3.1\05Orders.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05Orders\obj\Debug\netcoreapp3.1\05Orders.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05Orders\bin\Debug\netcoreapp3.1\05Orders.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05Orders\bin\Debug\netcoreapp3.1\05Orders.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05Orders\bin\Debug\netcoreapp3.1\05Orders.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05Orders\bin\Debug\netcoreapp3.1\05Orders.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05Orders\bin\Debug\netcoreapp3.1\05Orders.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05Orders\bin\Debug\netcoreapp3.1\05Orders.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05Orders\obj\Debug\netcoreapp3.1\05Orders.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05Orders\obj\Debug\netcoreapp3.1\05Orders.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05Orders\obj\Debug\netcoreapp3.1\05Orders.genruntimeconfig.cache
