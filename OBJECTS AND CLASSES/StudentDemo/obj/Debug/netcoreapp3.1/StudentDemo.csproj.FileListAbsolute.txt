@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StudentDemo\bin\Debug\netcoreapp3.1\StudentDemo.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.genruntimeconfig.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StudentDemo\obj\Debug\netcoreapp3.1\StudentDemo.csprojAssemblyReference.cache
