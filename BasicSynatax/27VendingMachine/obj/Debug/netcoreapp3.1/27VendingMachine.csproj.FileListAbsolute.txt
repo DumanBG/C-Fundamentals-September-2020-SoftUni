@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27VendingMachine\obj\Debug\netcoreapp3.1\27VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27VendingMachine\obj\Debug\netcoreapp3.1\27VendingMachine.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27VendingMachine\obj\Debug\netcoreapp3.1\27VendingMachine.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27VendingMachine\bin\Debug\netcoreapp3.1\27VendingMachine.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27VendingMachine\bin\Debug\netcoreapp3.1\27VendingMachine.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27VendingMachine\bin\Debug\netcoreapp3.1\27VendingMachine.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27VendingMachine\bin\Debug\netcoreapp3.1\27VendingMachine.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27VendingMachine\bin\Debug\netcoreapp3.1\27VendingMachine.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27VendingMachine\bin\Debug\netcoreapp3.1\27VendingMachine.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27VendingMachine\obj\Debug\netcoreapp3.1\27VendingMachine.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27VendingMachine\obj\Debug\netcoreapp3.1\27VendingMachine.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27VendingMachine\obj\Debug\netcoreapp3.1\27VendingMachine.genruntimeconfig.cache

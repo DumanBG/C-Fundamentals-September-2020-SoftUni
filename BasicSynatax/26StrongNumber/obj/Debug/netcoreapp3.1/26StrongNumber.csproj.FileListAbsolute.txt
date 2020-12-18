@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26StrongNumber\bin\Debug\netcoreapp3.1\26StrongNumber.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26StrongNumber\bin\Debug\netcoreapp3.1\26StrongNumber.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26StrongNumber\bin\Debug\netcoreapp3.1\26StrongNumber.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26StrongNumber\bin\Debug\netcoreapp3.1\26StrongNumber.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26StrongNumber\bin\Debug\netcoreapp3.1\26StrongNumber.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26StrongNumber\bin\Debug\netcoreapp3.1\26StrongNumber.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26StrongNumber\obj\Debug\netcoreapp3.1\26StrongNumber.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26StrongNumber\obj\Debug\netcoreapp3.1\26StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26StrongNumber\obj\Debug\netcoreapp3.1\26StrongNumber.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26StrongNumber\obj\Debug\netcoreapp3.1\26StrongNumber.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26StrongNumber\obj\Debug\netcoreapp3.1\26StrongNumber.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26StrongNumber\obj\Debug\netcoreapp3.1\26StrongNumber.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26StrongNumber\obj\Debug\netcoreapp3.1\26StrongNumber.genruntimeconfig.cache

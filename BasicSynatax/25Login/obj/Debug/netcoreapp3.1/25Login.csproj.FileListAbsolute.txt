@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25Login\bin\Debug\netcoreapp3.1\25Login.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25Login\bin\Debug\netcoreapp3.1\25Login.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25Login\bin\Debug\netcoreapp3.1\25Login.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25Login\bin\Debug\netcoreapp3.1\25Login.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25Login\bin\Debug\netcoreapp3.1\25Login.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25Login\bin\Debug\netcoreapp3.1\25Login.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25Login\obj\Debug\netcoreapp3.1\25Login.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25Login\obj\Debug\netcoreapp3.1\25Login.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25Login\obj\Debug\netcoreapp3.1\25Login.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25Login\obj\Debug\netcoreapp3.1\25Login.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25Login\obj\Debug\netcoreapp3.1\25Login.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25Login\obj\Debug\netcoreapp3.1\25Login.genruntimeconfig.cache
