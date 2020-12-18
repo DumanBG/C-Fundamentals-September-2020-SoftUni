@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.genruntimeconfig.cache
