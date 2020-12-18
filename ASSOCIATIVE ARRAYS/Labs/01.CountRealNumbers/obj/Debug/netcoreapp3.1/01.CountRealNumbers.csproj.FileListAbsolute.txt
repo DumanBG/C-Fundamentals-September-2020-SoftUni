@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CountRealNumbers\bin\Debug\netcoreapp3.1\01.CountRealNumbers.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CountRealNumbers\bin\Debug\netcoreapp3.1\01.CountRealNumbers.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CountRealNumbers\bin\Debug\netcoreapp3.1\01.CountRealNumbers.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CountRealNumbers\bin\Debug\netcoreapp3.1\01.CountRealNumbers.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CountRealNumbers\bin\Debug\netcoreapp3.1\01.CountRealNumbers.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CountRealNumbers\bin\Debug\netcoreapp3.1\01.CountRealNumbers.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CountRealNumbers\obj\Debug\netcoreapp3.1\01.CountRealNumbers.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CountRealNumbers\obj\Debug\netcoreapp3.1\01.CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CountRealNumbers\obj\Debug\netcoreapp3.1\01.CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CountRealNumbers\obj\Debug\netcoreapp3.1\01.CountRealNumbers.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CountRealNumbers\obj\Debug\netcoreapp3.1\01.CountRealNumbers.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CountRealNumbers\obj\Debug\netcoreapp3.1\01.CountRealNumbers.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CountRealNumbers\obj\Debug\netcoreapp3.1\01.CountRealNumbers.genruntimeconfig.cache

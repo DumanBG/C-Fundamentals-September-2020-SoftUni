@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.TextCountPrintOdd\bin\Debug\netcoreapp3.1\02.TextCountPrintOdd.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.TextCountPrintOdd\bin\Debug\netcoreapp3.1\02.TextCountPrintOdd.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.TextCountPrintOdd\bin\Debug\netcoreapp3.1\02.TextCountPrintOdd.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.TextCountPrintOdd\bin\Debug\netcoreapp3.1\02.TextCountPrintOdd.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.TextCountPrintOdd\bin\Debug\netcoreapp3.1\02.TextCountPrintOdd.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.TextCountPrintOdd\bin\Debug\netcoreapp3.1\02.TextCountPrintOdd.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.TextCountPrintOdd\obj\Debug\netcoreapp3.1\02.TextCountPrintOdd.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.TextCountPrintOdd\obj\Debug\netcoreapp3.1\02.TextCountPrintOdd.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.TextCountPrintOdd\obj\Debug\netcoreapp3.1\02.TextCountPrintOdd.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.TextCountPrintOdd\obj\Debug\netcoreapp3.1\02.TextCountPrintOdd.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.TextCountPrintOdd\obj\Debug\netcoreapp3.1\02.TextCountPrintOdd.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.TextCountPrintOdd\obj\Debug\netcoreapp3.1\02.TextCountPrintOdd.genruntimeconfig.cache
