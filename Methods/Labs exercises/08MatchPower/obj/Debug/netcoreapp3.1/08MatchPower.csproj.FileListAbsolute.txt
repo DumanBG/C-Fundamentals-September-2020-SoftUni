@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08MatchPower\bin\Debug\netcoreapp3.1\08MatchPower.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08MatchPower\bin\Debug\netcoreapp3.1\08MatchPower.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08MatchPower\bin\Debug\netcoreapp3.1\08MatchPower.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08MatchPower\bin\Debug\netcoreapp3.1\08MatchPower.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08MatchPower\bin\Debug\netcoreapp3.1\08MatchPower.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08MatchPower\bin\Debug\netcoreapp3.1\08MatchPower.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08MatchPower\obj\Debug\netcoreapp3.1\08MatchPower.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08MatchPower\obj\Debug\netcoreapp3.1\08MatchPower.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08MatchPower\obj\Debug\netcoreapp3.1\08MatchPower.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08MatchPower\obj\Debug\netcoreapp3.1\08MatchPower.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08MatchPower\obj\Debug\netcoreapp3.1\08MatchPower.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08MatchPower\obj\Debug\netcoreapp3.1\08MatchPower.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08MatchPower\obj\Debug\netcoreapp3.1\08MatchPower.genruntimeconfig.cache

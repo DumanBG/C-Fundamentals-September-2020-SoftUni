@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\10MultiplyEvenByOdds\obj\Debug\netcoreapp3.1\10MultiplyEvenByOdds.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\10MultiplyEvenByOdds\obj\Debug\netcoreapp3.1\10MultiplyEvenByOdds.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\10MultiplyEvenByOdds\obj\Debug\netcoreapp3.1\10MultiplyEvenByOdds.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\10MultiplyEvenByOdds\obj\Debug\netcoreapp3.1\10MultiplyEvenByOdds.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\10MultiplyEvenByOdds\bin\Debug\netcoreapp3.1\10MultiplyEvenByOdds.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\10MultiplyEvenByOdds\bin\Debug\netcoreapp3.1\10MultiplyEvenByOdds.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\10MultiplyEvenByOdds\bin\Debug\netcoreapp3.1\10MultiplyEvenByOdds.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\10MultiplyEvenByOdds\bin\Debug\netcoreapp3.1\10MultiplyEvenByOdds.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\10MultiplyEvenByOdds\bin\Debug\netcoreapp3.1\10MultiplyEvenByOdds.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\10MultiplyEvenByOdds\bin\Debug\netcoreapp3.1\10MultiplyEvenByOdds.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\10MultiplyEvenByOdds\obj\Debug\netcoreapp3.1\10MultiplyEvenByOdds.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\10MultiplyEvenByOdds\obj\Debug\netcoreapp3.1\10MultiplyEvenByOdds.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\10MultiplyEvenByOdds\obj\Debug\netcoreapp3.1\10MultiplyEvenByOdds.genruntimeconfig.cache
