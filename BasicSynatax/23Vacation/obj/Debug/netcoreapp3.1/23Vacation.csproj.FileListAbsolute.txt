@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\23Vacation\bin\Debug\netcoreapp3.1\23Vacation.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\23Vacation\bin\Debug\netcoreapp3.1\23Vacation.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\23Vacation\bin\Debug\netcoreapp3.1\23Vacation.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\23Vacation\bin\Debug\netcoreapp3.1\23Vacation.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\23Vacation\bin\Debug\netcoreapp3.1\23Vacation.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\23Vacation\bin\Debug\netcoreapp3.1\23Vacation.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\23Vacation\obj\Debug\netcoreapp3.1\23Vacation.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\23Vacation\obj\Debug\netcoreapp3.1\23Vacation.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\23Vacation\obj\Debug\netcoreapp3.1\23Vacation.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\23Vacation\obj\Debug\netcoreapp3.1\23Vacation.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\23Vacation\obj\Debug\netcoreapp3.1\23Vacation.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\23Vacation\obj\Debug\netcoreapp3.1\23Vacation.genruntimeconfig.cache

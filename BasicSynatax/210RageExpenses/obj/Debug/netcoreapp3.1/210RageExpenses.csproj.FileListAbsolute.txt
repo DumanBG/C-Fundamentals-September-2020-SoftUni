@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\210RageExpenses\bin\Debug\netcoreapp3.1\210RageExpenses.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\210RageExpenses\bin\Debug\netcoreapp3.1\210RageExpenses.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\210RageExpenses\bin\Debug\netcoreapp3.1\210RageExpenses.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\210RageExpenses\bin\Debug\netcoreapp3.1\210RageExpenses.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\210RageExpenses\bin\Debug\netcoreapp3.1\210RageExpenses.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\210RageExpenses\bin\Debug\netcoreapp3.1\210RageExpenses.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\210RageExpenses\obj\Debug\netcoreapp3.1\210RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\210RageExpenses\obj\Debug\netcoreapp3.1\210RageExpenses.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\210RageExpenses\obj\Debug\netcoreapp3.1\210RageExpenses.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\210RageExpenses\obj\Debug\netcoreapp3.1\210RageExpenses.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\210RageExpenses\obj\Debug\netcoreapp3.1\210RageExpenses.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\210RageExpenses\obj\Debug\netcoreapp3.1\210RageExpenses.genruntimeconfig.cache
