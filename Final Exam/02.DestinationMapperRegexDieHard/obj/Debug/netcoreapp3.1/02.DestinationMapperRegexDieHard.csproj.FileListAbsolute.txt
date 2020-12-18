@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.DestinationMapperRegexDieHard\bin\Debug\netcoreapp3.1\02.DestinationMapperRegexDieHard.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.DestinationMapperRegexDieHard\bin\Debug\netcoreapp3.1\02.DestinationMapperRegexDieHard.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.DestinationMapperRegexDieHard\bin\Debug\netcoreapp3.1\02.DestinationMapperRegexDieHard.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.DestinationMapperRegexDieHard\bin\Debug\netcoreapp3.1\02.DestinationMapperRegexDieHard.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.DestinationMapperRegexDieHard\bin\Debug\netcoreapp3.1\02.DestinationMapperRegexDieHard.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.DestinationMapperRegexDieHard\bin\Debug\netcoreapp3.1\02.DestinationMapperRegexDieHard.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.DestinationMapperRegexDieHard\obj\Debug\netcoreapp3.1\02.DestinationMapperRegexDieHard.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.DestinationMapperRegexDieHard\obj\Debug\netcoreapp3.1\02.DestinationMapperRegexDieHard.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.DestinationMapperRegexDieHard\obj\Debug\netcoreapp3.1\02.DestinationMapperRegexDieHard.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.DestinationMapperRegexDieHard\obj\Debug\netcoreapp3.1\02.DestinationMapperRegexDieHard.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.DestinationMapperRegexDieHard\obj\Debug\netcoreapp3.1\02.DestinationMapperRegexDieHard.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.DestinationMapperRegexDieHard\obj\Debug\netcoreapp3.1\02.DestinationMapperRegexDieHard.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.DestinationMapperRegexDieHard\obj\Debug\netcoreapp3.1\02.DestinationMapperRegexDieHard.genruntimeconfig.cache

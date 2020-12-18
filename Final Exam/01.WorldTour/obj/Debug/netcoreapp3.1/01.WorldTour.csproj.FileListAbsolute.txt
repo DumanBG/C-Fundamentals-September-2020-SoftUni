@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.genruntimeconfig.cache
