@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\ReplaceMath\bin\Debug\netcoreapp3.1\ReplaceMath.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\ReplaceMath\bin\Debug\netcoreapp3.1\ReplaceMath.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\ReplaceMath\bin\Debug\netcoreapp3.1\ReplaceMath.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\ReplaceMath\bin\Debug\netcoreapp3.1\ReplaceMath.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\ReplaceMath\bin\Debug\netcoreapp3.1\ReplaceMath.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\ReplaceMath\bin\Debug\netcoreapp3.1\ReplaceMath.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\ReplaceMath\obj\Debug\netcoreapp3.1\ReplaceMath.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\ReplaceMath\obj\Debug\netcoreapp3.1\ReplaceMath.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\ReplaceMath\obj\Debug\netcoreapp3.1\ReplaceMath.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\ReplaceMath\obj\Debug\netcoreapp3.1\ReplaceMath.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\ReplaceMath\obj\Debug\netcoreapp3.1\ReplaceMath.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\ReplaceMath\obj\Debug\netcoreapp3.1\ReplaceMath.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\ReplaceMath\obj\Debug\netcoreapp3.1\ReplaceMath.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\SoftUniLab\bin\Debug\netcoreapp3.1\SoftUniLab.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\SoftUniLab\bin\Debug\netcoreapp3.1\SoftUniLab.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\SoftUniLab\bin\Debug\netcoreapp3.1\SoftUniLab.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\SoftUniLab\bin\Debug\netcoreapp3.1\SoftUniLab.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\SoftUniLab\bin\Debug\netcoreapp3.1\SoftUniLab.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\SoftUniLab\bin\Debug\netcoreapp3.1\SoftUniLab.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\SoftUniLab\obj\Debug\netcoreapp3.1\SoftUniLab.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\SoftUniLab\obj\Debug\netcoreapp3.1\SoftUniLab.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\SoftUniLab\obj\Debug\netcoreapp3.1\SoftUniLab.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\SoftUniLab\obj\Debug\netcoreapp3.1\SoftUniLab.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\SoftUniLab\obj\Debug\netcoreapp3.1\SoftUniLab.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\SoftUniLab\obj\Debug\netcoreapp3.1\SoftUniLab.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\SoftUniLab\obj\Debug\netcoreapp3.1\SoftUniLab.genruntimeconfig.cache
