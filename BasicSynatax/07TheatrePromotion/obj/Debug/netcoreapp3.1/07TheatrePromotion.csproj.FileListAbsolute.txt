@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07TheatrePromotion\bin\Debug\netcoreapp3.1\07TheatrePromotion.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07TheatrePromotion\bin\Debug\netcoreapp3.1\07TheatrePromotion.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07TheatrePromotion\bin\Debug\netcoreapp3.1\07TheatrePromotion.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07TheatrePromotion\bin\Debug\netcoreapp3.1\07TheatrePromotion.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07TheatrePromotion\bin\Debug\netcoreapp3.1\07TheatrePromotion.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07TheatrePromotion\bin\Debug\netcoreapp3.1\07TheatrePromotion.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07TheatrePromotion\obj\Debug\netcoreapp3.1\07TheatrePromotion.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07TheatrePromotion\obj\Debug\netcoreapp3.1\07TheatrePromotion.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07TheatrePromotion\obj\Debug\netcoreapp3.1\07TheatrePromotion.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07TheatrePromotion\obj\Debug\netcoreapp3.1\07TheatrePromotion.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07TheatrePromotion\obj\Debug\netcoreapp3.1\07TheatrePromotion.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07TheatrePromotion\obj\Debug\netcoreapp3.1\07TheatrePromotion.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07TheatrePromotion\obj\Debug\netcoreapp3.1\07TheatrePromotion.genruntimeconfig.cache

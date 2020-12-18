@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05MonthPrinter\bin\Debug\netcoreapp3.1\05MonthPrinter.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05MonthPrinter\bin\Debug\netcoreapp3.1\05MonthPrinter.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05MonthPrinter\bin\Debug\netcoreapp3.1\05MonthPrinter.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05MonthPrinter\bin\Debug\netcoreapp3.1\05MonthPrinter.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05MonthPrinter\bin\Debug\netcoreapp3.1\05MonthPrinter.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05MonthPrinter\bin\Debug\netcoreapp3.1\05MonthPrinter.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05MonthPrinter\obj\Debug\netcoreapp3.1\05MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05MonthPrinter\obj\Debug\netcoreapp3.1\05MonthPrinter.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05MonthPrinter\obj\Debug\netcoreapp3.1\05MonthPrinter.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05MonthPrinter\obj\Debug\netcoreapp3.1\05MonthPrinter.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05MonthPrinter\obj\Debug\netcoreapp3.1\05MonthPrinter.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\05MonthPrinter\obj\Debug\netcoreapp3.1\05MonthPrinter.genruntimeconfig.cache
