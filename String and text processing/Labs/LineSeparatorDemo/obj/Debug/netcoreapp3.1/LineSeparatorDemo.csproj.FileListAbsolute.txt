@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\LineSeparatorDemo\bin\Debug\netcoreapp3.1\LineSeparatorDemo.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\LineSeparatorDemo\bin\Debug\netcoreapp3.1\LineSeparatorDemo.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\LineSeparatorDemo\bin\Debug\netcoreapp3.1\LineSeparatorDemo.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\LineSeparatorDemo\bin\Debug\netcoreapp3.1\LineSeparatorDemo.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\LineSeparatorDemo\bin\Debug\netcoreapp3.1\LineSeparatorDemo.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\LineSeparatorDemo\bin\Debug\netcoreapp3.1\LineSeparatorDemo.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\LineSeparatorDemo\obj\Debug\netcoreapp3.1\LineSeparatorDemo.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\LineSeparatorDemo\obj\Debug\netcoreapp3.1\LineSeparatorDemo.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\LineSeparatorDemo\obj\Debug\netcoreapp3.1\LineSeparatorDemo.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\LineSeparatorDemo\obj\Debug\netcoreapp3.1\LineSeparatorDemo.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\LineSeparatorDemo\obj\Debug\netcoreapp3.1\LineSeparatorDemo.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\LineSeparatorDemo\obj\Debug\netcoreapp3.1\LineSeparatorDemo.genruntimeconfig.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\LineSeparatorDemo\obj\Debug\netcoreapp3.1\LineSeparatorDemo.csprojAssemblyReference.cache
