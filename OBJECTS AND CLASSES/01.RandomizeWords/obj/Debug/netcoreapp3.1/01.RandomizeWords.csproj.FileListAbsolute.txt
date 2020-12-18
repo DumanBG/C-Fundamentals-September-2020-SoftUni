@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.RandomizeWords\bin\Debug\netcoreapp3.1\01.RandomizeWords.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.RandomizeWords\obj\Debug\netcoreapp3.1\01.RandomizeWords.genruntimeconfig.cache

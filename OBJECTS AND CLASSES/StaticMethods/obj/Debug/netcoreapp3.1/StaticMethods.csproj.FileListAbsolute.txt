@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StaticMethods\bin\Debug\netcoreapp3.1\StaticMethods.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\StaticMethods\obj\Debug\netcoreapp3.1\StaticMethods.genruntimeconfig.cache
