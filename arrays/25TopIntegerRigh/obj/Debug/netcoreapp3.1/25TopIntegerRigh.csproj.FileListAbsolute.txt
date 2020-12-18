@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25TopIntegerRigh\bin\Debug\netcoreapp3.1\25TopIntegerRigh.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25TopIntegerRigh\bin\Debug\netcoreapp3.1\25TopIntegerRigh.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25TopIntegerRigh\bin\Debug\netcoreapp3.1\25TopIntegerRigh.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25TopIntegerRigh\bin\Debug\netcoreapp3.1\25TopIntegerRigh.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25TopIntegerRigh\bin\Debug\netcoreapp3.1\25TopIntegerRigh.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25TopIntegerRigh\bin\Debug\netcoreapp3.1\25TopIntegerRigh.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25TopIntegerRigh\obj\Debug\netcoreapp3.1\25TopIntegerRigh.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25TopIntegerRigh\obj\Debug\netcoreapp3.1\25TopIntegerRigh.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25TopIntegerRigh\obj\Debug\netcoreapp3.1\25TopIntegerRigh.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25TopIntegerRigh\obj\Debug\netcoreapp3.1\25TopIntegerRigh.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25TopIntegerRigh\obj\Debug\netcoreapp3.1\25TopIntegerRigh.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\25TopIntegerRigh\obj\Debug\netcoreapp3.1\25TopIntegerRigh.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "23ZigZagArray/1.0.0": {
+        "runtime": {
+          "23ZigZagArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "23ZigZagArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

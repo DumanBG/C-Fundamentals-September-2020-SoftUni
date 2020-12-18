@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\22CommonElements\bin\Debug\netcoreapp3.1\22CommonElements.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\22CommonElements\bin\Debug\netcoreapp3.1\22CommonElements.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\22CommonElements\bin\Debug\netcoreapp3.1\22CommonElements.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\22CommonElements\bin\Debug\netcoreapp3.1\22CommonElements.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\22CommonElements\bin\Debug\netcoreapp3.1\22CommonElements.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\22CommonElements\bin\Debug\netcoreapp3.1\22CommonElements.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\22CommonElements\obj\Debug\netcoreapp3.1\22CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\22CommonElements\obj\Debug\netcoreapp3.1\22CommonElements.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\22CommonElements\obj\Debug\netcoreapp3.1\22CommonElements.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\22CommonElements\obj\Debug\netcoreapp3.1\22CommonElements.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\22CommonElements\obj\Debug\netcoreapp3.1\22CommonElements.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\22CommonElements\obj\Debug\netcoreapp3.1\22CommonElements.genruntimeconfig.cache

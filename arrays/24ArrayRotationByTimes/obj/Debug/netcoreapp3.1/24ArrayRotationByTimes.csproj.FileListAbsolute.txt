@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\24ArrayRotationByTimes\bin\Debug\netcoreapp3.1\24ArrayRotationByTimes.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\24ArrayRotationByTimes\bin\Debug\netcoreapp3.1\24ArrayRotationByTimes.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\24ArrayRotationByTimes\bin\Debug\netcoreapp3.1\24ArrayRotationByTimes.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\24ArrayRotationByTimes\bin\Debug\netcoreapp3.1\24ArrayRotationByTimes.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\24ArrayRotationByTimes\bin\Debug\netcoreapp3.1\24ArrayRotationByTimes.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\24ArrayRotationByTimes\bin\Debug\netcoreapp3.1\24ArrayRotationByTimes.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\24ArrayRotationByTimes\obj\Debug\netcoreapp3.1\24ArrayRotationByTimes.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\24ArrayRotationByTimes\obj\Debug\netcoreapp3.1\24ArrayRotationByTimes.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\24ArrayRotationByTimes\obj\Debug\netcoreapp3.1\24ArrayRotationByTimes.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\24ArrayRotationByTimes\obj\Debug\netcoreapp3.1\24ArrayRotationByTimes.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\24ArrayRotationByTimes\obj\Debug\netcoreapp3.1\24ArrayRotationByTimes.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\24ArrayRotationByTimes\obj\Debug\netcoreapp3.1\24ArrayRotationByTimes.genruntimeconfig.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\24ArrayRotationByTimes\obj\Debug\netcoreapp3.1\24ArrayRotationByTimes.csprojAssemblyReference.cache
