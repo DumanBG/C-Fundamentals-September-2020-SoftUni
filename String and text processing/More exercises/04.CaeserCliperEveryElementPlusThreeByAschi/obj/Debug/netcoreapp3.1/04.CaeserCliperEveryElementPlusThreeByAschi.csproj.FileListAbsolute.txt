@@ -1,0 +1,3 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04.CaeserCliperEveryElementPlusThreeByAschi\obj\Debug\netcoreapp3.1\04.CaeserCliperEveryElementPlusThreeByAschi.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04.CaeserCliperEveryElementPlusThreeByAschi\obj\Debug\netcoreapp3.1\04.CaeserCliperEveryElementPlusThreeByAschi.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04.CaeserCliperEveryElementPlusThreeByAschi\obj\Debug\netcoreapp3.1\04.CaeserCliperEveryElementPlusThreeByAschi.AssemblyInfo.cs

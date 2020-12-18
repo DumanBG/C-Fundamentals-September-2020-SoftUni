@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ValidUserByMethods\bin\Debug\netcoreapp3.1\01ValidUserByMethods.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ValidUserByMethods\bin\Debug\netcoreapp3.1\01ValidUserByMethods.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ValidUserByMethods\bin\Debug\netcoreapp3.1\01ValidUserByMethods.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ValidUserByMethods\bin\Debug\netcoreapp3.1\01ValidUserByMethods.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ValidUserByMethods\bin\Debug\netcoreapp3.1\01ValidUserByMethods.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ValidUserByMethods\bin\Debug\netcoreapp3.1\01ValidUserByMethods.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ValidUserByMethods\obj\Debug\netcoreapp3.1\01ValidUserByMethods.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ValidUserByMethods\obj\Debug\netcoreapp3.1\01ValidUserByMethods.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ValidUserByMethods\obj\Debug\netcoreapp3.1\01ValidUserByMethods.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ValidUserByMethods\obj\Debug\netcoreapp3.1\01ValidUserByMethods.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ValidUserByMethods\obj\Debug\netcoreapp3.1\01ValidUserByMethods.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ValidUserByMethods\obj\Debug\netcoreapp3.1\01ValidUserByMethods.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ValidUserByMethods\obj\Debug\netcoreapp3.1\01ValidUserByMethods.genruntimeconfig.cache

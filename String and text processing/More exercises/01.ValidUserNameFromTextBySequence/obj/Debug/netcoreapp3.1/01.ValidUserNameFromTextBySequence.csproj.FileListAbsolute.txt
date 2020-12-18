@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.ValidUserNameFromTextBySequence\bin\Debug\netcoreapp3.1\01.ValidUserNameFromTextBySequence.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.ValidUserNameFromTextBySequence\bin\Debug\netcoreapp3.1\01.ValidUserNameFromTextBySequence.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.ValidUserNameFromTextBySequence\bin\Debug\netcoreapp3.1\01.ValidUserNameFromTextBySequence.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.ValidUserNameFromTextBySequence\bin\Debug\netcoreapp3.1\01.ValidUserNameFromTextBySequence.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.ValidUserNameFromTextBySequence\bin\Debug\netcoreapp3.1\01.ValidUserNameFromTextBySequence.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.ValidUserNameFromTextBySequence\bin\Debug\netcoreapp3.1\01.ValidUserNameFromTextBySequence.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.ValidUserNameFromTextBySequence\obj\Debug\netcoreapp3.1\01.ValidUserNameFromTextBySequence.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.ValidUserNameFromTextBySequence\obj\Debug\netcoreapp3.1\01.ValidUserNameFromTextBySequence.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.ValidUserNameFromTextBySequence\obj\Debug\netcoreapp3.1\01.ValidUserNameFromTextBySequence.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.ValidUserNameFromTextBySequence\obj\Debug\netcoreapp3.1\01.ValidUserNameFromTextBySequence.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.ValidUserNameFromTextBySequence\obj\Debug\netcoreapp3.1\01.ValidUserNameFromTextBySequence.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.ValidUserNameFromTextBySequence\obj\Debug\netcoreapp3.1\01.ValidUserNameFromTextBySequence.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.ValidUserNameFromTextBySequence\obj\Debug\netcoreapp3.1\01.ValidUserNameFromTextBySequence.genruntimeconfig.cache
