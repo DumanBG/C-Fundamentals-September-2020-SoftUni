@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08.AnonymousThreat\bin\Debug\netcoreapp3.1\08.AnonymousThreat.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08.AnonymousThreat\obj\Debug\netcoreapp3.1\08.AnonymousThreat.genruntimeconfig.cache
