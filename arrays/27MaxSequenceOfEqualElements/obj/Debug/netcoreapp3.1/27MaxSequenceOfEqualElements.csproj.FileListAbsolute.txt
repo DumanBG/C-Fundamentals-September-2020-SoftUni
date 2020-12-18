@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\27MaxSequenceOfEqualElements.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\27MaxSequenceOfEqualElements.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\27MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\27MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\27MaxSequenceOfEqualElements.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\27MaxSequenceOfEqualElements.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\27MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\27MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\27MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\27MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\27MaxSequenceOfEqualElements.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\27MaxSequenceOfEqualElements.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\27MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\27MaxSequenceOfEqualElements.genruntimeconfig.cache
