@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.RaceFindNameByRegexSymbols\bin\Debug\netcoreapp3.1\02.RaceFindNameByRegexSymbols.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.RaceFindNameByRegexSymbols\bin\Debug\netcoreapp3.1\02.RaceFindNameByRegexSymbols.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.RaceFindNameByRegexSymbols\bin\Debug\netcoreapp3.1\02.RaceFindNameByRegexSymbols.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.RaceFindNameByRegexSymbols\bin\Debug\netcoreapp3.1\02.RaceFindNameByRegexSymbols.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.RaceFindNameByRegexSymbols\bin\Debug\netcoreapp3.1\02.RaceFindNameByRegexSymbols.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.RaceFindNameByRegexSymbols\bin\Debug\netcoreapp3.1\02.RaceFindNameByRegexSymbols.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.RaceFindNameByRegexSymbols\obj\Debug\netcoreapp3.1\02.RaceFindNameByRegexSymbols.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.RaceFindNameByRegexSymbols\obj\Debug\netcoreapp3.1\02.RaceFindNameByRegexSymbols.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.RaceFindNameByRegexSymbols\obj\Debug\netcoreapp3.1\02.RaceFindNameByRegexSymbols.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.RaceFindNameByRegexSymbols\obj\Debug\netcoreapp3.1\02.RaceFindNameByRegexSymbols.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.RaceFindNameByRegexSymbols\obj\Debug\netcoreapp3.1\02.RaceFindNameByRegexSymbols.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.RaceFindNameByRegexSymbols\obj\Debug\netcoreapp3.1\02.RaceFindNameByRegexSymbols.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.RaceFindNameByRegexSymbols\obj\Debug\netcoreapp3.1\02.RaceFindNameByRegexSymbols.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.genruntimeconfig.cache
