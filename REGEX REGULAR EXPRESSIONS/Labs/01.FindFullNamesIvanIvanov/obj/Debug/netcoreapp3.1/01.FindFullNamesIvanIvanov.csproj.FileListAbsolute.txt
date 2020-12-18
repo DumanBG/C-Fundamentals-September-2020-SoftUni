@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.FindFullNamesIvanIvanov\bin\Debug\netcoreapp3.1\01.FindFullNamesIvanIvanov.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.FindFullNamesIvanIvanov\bin\Debug\netcoreapp3.1\01.FindFullNamesIvanIvanov.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.FindFullNamesIvanIvanov\bin\Debug\netcoreapp3.1\01.FindFullNamesIvanIvanov.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.FindFullNamesIvanIvanov\bin\Debug\netcoreapp3.1\01.FindFullNamesIvanIvanov.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.FindFullNamesIvanIvanov\bin\Debug\netcoreapp3.1\01.FindFullNamesIvanIvanov.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.FindFullNamesIvanIvanov\bin\Debug\netcoreapp3.1\01.FindFullNamesIvanIvanov.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.FindFullNamesIvanIvanov\obj\Debug\netcoreapp3.1\01.FindFullNamesIvanIvanov.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.FindFullNamesIvanIvanov\obj\Debug\netcoreapp3.1\01.FindFullNamesIvanIvanov.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.FindFullNamesIvanIvanov\obj\Debug\netcoreapp3.1\01.FindFullNamesIvanIvanov.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.FindFullNamesIvanIvanov\obj\Debug\netcoreapp3.1\01.FindFullNamesIvanIvanov.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.FindFullNamesIvanIvanov\obj\Debug\netcoreapp3.1\01.FindFullNamesIvanIvanov.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.FindFullNamesIvanIvanov\obj\Debug\netcoreapp3.1\01.FindFullNamesIvanIvanov.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.FindFullNamesIvanIvanov\obj\Debug\netcoreapp3.1\01.FindFullNamesIvanIvanov.genruntimeconfig.cache
