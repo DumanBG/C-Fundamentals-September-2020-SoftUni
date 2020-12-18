@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CookingMasterClass\bin\Debug\netcoreapp3.1\01.CookingMasterClass.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CookingMasterClass\bin\Debug\netcoreapp3.1\01.CookingMasterClass.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CookingMasterClass\bin\Debug\netcoreapp3.1\01.CookingMasterClass.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CookingMasterClass\bin\Debug\netcoreapp3.1\01.CookingMasterClass.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CookingMasterClass\bin\Debug\netcoreapp3.1\01.CookingMasterClass.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CookingMasterClass\bin\Debug\netcoreapp3.1\01.CookingMasterClass.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CookingMasterClass\obj\Debug\netcoreapp3.1\01.CookingMasterClass.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CookingMasterClass\obj\Debug\netcoreapp3.1\01.CookingMasterClass.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CookingMasterClass\obj\Debug\netcoreapp3.1\01.CookingMasterClass.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CookingMasterClass\obj\Debug\netcoreapp3.1\01.CookingMasterClass.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CookingMasterClass\obj\Debug\netcoreapp3.1\01.CookingMasterClass.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CookingMasterClass\obj\Debug\netcoreapp3.1\01.CookingMasterClass.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CookingMasterClass\obj\Debug\netcoreapp3.1\01.CookingMasterClass.genruntimeconfig.cache

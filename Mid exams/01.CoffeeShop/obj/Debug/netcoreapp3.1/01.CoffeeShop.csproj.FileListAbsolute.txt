@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CoffeeShop\bin\Debug\netcoreapp3.1\01.CoffeeShop.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CoffeeShop\bin\Debug\netcoreapp3.1\01.CoffeeShop.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CoffeeShop\bin\Debug\netcoreapp3.1\01.CoffeeShop.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CoffeeShop\bin\Debug\netcoreapp3.1\01.CoffeeShop.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CoffeeShop\bin\Debug\netcoreapp3.1\01.CoffeeShop.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CoffeeShop\bin\Debug\netcoreapp3.1\01.CoffeeShop.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CoffeeShop\obj\Debug\netcoreapp3.1\01.CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CoffeeShop\obj\Debug\netcoreapp3.1\01.CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CoffeeShop\obj\Debug\netcoreapp3.1\01.CoffeeShop.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CoffeeShop\obj\Debug\netcoreapp3.1\01.CoffeeShop.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CoffeeShop\obj\Debug\netcoreapp3.1\01.CoffeeShop.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.CoffeeShop\obj\Debug\netcoreapp3.1\01.CoffeeShop.genruntimeconfig.cache

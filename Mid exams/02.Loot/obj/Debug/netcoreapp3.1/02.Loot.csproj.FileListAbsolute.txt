@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.Loot\bin\Debug\netcoreapp3.1\02.Loot.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.Loot\bin\Debug\netcoreapp3.1\02.Loot.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.Loot\bin\Debug\netcoreapp3.1\02.Loot.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.Loot\bin\Debug\netcoreapp3.1\02.Loot.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.Loot\bin\Debug\netcoreapp3.1\02.Loot.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.Loot\bin\Debug\netcoreapp3.1\02.Loot.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.Loot\obj\Debug\netcoreapp3.1\02.Loot.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.Loot\obj\Debug\netcoreapp3.1\02.Loot.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.Loot\obj\Debug\netcoreapp3.1\02.Loot.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.Loot\obj\Debug\netcoreapp3.1\02.Loot.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.Loot\obj\Debug\netcoreapp3.1\02.Loot.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.Loot\obj\Debug\netcoreapp3.1\02.Loot.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.Loot\obj\Debug\netcoreapp3.1\02.Loot.genruntimeconfig.cache
