@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\11.ArrayManipolator\obj\Debug\netcoreapp3.1\11.ArrayManipolator.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\11.ArrayManipolator\obj\Debug\netcoreapp3.1\11.ArrayManipolator.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\11.ArrayManipolator\obj\Debug\netcoreapp3.1\11.ArrayManipolator.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\11.ArrayManipolator\obj\Debug\netcoreapp3.1\11.ArrayManipolator.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\11.ArrayManipolator\bin\Debug\netcoreapp3.1\11.ArrayManipolator.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\11.ArrayManipolator\bin\Debug\netcoreapp3.1\11.ArrayManipolator.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\11.ArrayManipolator\bin\Debug\netcoreapp3.1\11.ArrayManipolator.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\11.ArrayManipolator\bin\Debug\netcoreapp3.1\11.ArrayManipolator.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\11.ArrayManipolator\bin\Debug\netcoreapp3.1\11.ArrayManipolator.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\11.ArrayManipolator\bin\Debug\netcoreapp3.1\11.ArrayManipolator.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\11.ArrayManipolator\obj\Debug\netcoreapp3.1\11.ArrayManipolator.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\11.ArrayManipolator\obj\Debug\netcoreapp3.1\11.ArrayManipolator.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\11.ArrayManipolator\obj\Debug\netcoreapp3.1\11.ArrayManipolator.genruntimeconfig.cache
