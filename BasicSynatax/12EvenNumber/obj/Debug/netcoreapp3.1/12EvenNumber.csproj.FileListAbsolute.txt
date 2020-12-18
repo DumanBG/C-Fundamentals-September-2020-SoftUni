@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\12EvenNumber\bin\Debug\netcoreapp3.1\12EvenNumber.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\12EvenNumber\bin\Debug\netcoreapp3.1\12EvenNumber.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\12EvenNumber\bin\Debug\netcoreapp3.1\12EvenNumber.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\12EvenNumber\bin\Debug\netcoreapp3.1\12EvenNumber.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\12EvenNumber\bin\Debug\netcoreapp3.1\12EvenNumber.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\12EvenNumber\bin\Debug\netcoreapp3.1\12EvenNumber.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\12EvenNumber\obj\Debug\netcoreapp3.1\12EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\12EvenNumber\obj\Debug\netcoreapp3.1\12EvenNumber.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\12EvenNumber\obj\Debug\netcoreapp3.1\12EvenNumber.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\12EvenNumber\obj\Debug\netcoreapp3.1\12EvenNumber.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\12EvenNumber\obj\Debug\netcoreapp3.1\12EvenNumber.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\12EvenNumber\obj\Debug\netcoreapp3.1\12EvenNumber.genruntimeconfig.cache

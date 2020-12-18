@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\09SumOfOddNumbers\bin\Debug\netcoreapp3.1\09SumOfOddNumbers.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\09SumOfOddNumbers\bin\Debug\netcoreapp3.1\09SumOfOddNumbers.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\09SumOfOddNumbers\bin\Debug\netcoreapp3.1\09SumOfOddNumbers.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\09SumOfOddNumbers\bin\Debug\netcoreapp3.1\09SumOfOddNumbers.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\09SumOfOddNumbers\bin\Debug\netcoreapp3.1\09SumOfOddNumbers.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\09SumOfOddNumbers\bin\Debug\netcoreapp3.1\09SumOfOddNumbers.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\09SumOfOddNumbers\obj\Debug\netcoreapp3.1\09SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\09SumOfOddNumbers\obj\Debug\netcoreapp3.1\09SumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\09SumOfOddNumbers\obj\Debug\netcoreapp3.1\09SumOfOddNumbers.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\09SumOfOddNumbers\obj\Debug\netcoreapp3.1\09SumOfOddNumbers.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\09SumOfOddNumbers\obj\Debug\netcoreapp3.1\09SumOfOddNumbers.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\09SumOfOddNumbers\obj\Debug\netcoreapp3.1\09SumOfOddNumbers.genruntimeconfig.cache
