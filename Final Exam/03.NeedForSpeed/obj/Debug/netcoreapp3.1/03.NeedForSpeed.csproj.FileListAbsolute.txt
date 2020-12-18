@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.NeedForSpeed\bin\Debug\netcoreapp3.1\03.NeedForSpeed.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.NeedForSpeed\bin\Debug\netcoreapp3.1\03.NeedForSpeed.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.NeedForSpeed\bin\Debug\netcoreapp3.1\03.NeedForSpeed.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.NeedForSpeed\bin\Debug\netcoreapp3.1\03.NeedForSpeed.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.NeedForSpeed\bin\Debug\netcoreapp3.1\03.NeedForSpeed.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.NeedForSpeed\bin\Debug\netcoreapp3.1\03.NeedForSpeed.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.NeedForSpeed\obj\Debug\netcoreapp3.1\03.NeedForSpeed.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.NeedForSpeed\obj\Debug\netcoreapp3.1\03.NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.NeedForSpeed\obj\Debug\netcoreapp3.1\03.NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.NeedForSpeed\obj\Debug\netcoreapp3.1\03.NeedForSpeed.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.NeedForSpeed\obj\Debug\netcoreapp3.1\03.NeedForSpeed.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.NeedForSpeed\obj\Debug\netcoreapp3.1\03.NeedForSpeed.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.NeedForSpeed\obj\Debug\netcoreapp3.1\03.NeedForSpeed.genruntimeconfig.cache

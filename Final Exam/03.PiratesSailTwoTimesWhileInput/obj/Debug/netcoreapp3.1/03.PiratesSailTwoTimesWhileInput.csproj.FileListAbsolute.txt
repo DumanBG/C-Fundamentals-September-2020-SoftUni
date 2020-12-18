@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.PiratesSailTwoTimesWhileInput\bin\Debug\netcoreapp3.1\03.PiratesSailTwoTimesWhileInput.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.PiratesSailTwoTimesWhileInput\bin\Debug\netcoreapp3.1\03.PiratesSailTwoTimesWhileInput.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.PiratesSailTwoTimesWhileInput\bin\Debug\netcoreapp3.1\03.PiratesSailTwoTimesWhileInput.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.PiratesSailTwoTimesWhileInput\bin\Debug\netcoreapp3.1\03.PiratesSailTwoTimesWhileInput.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.PiratesSailTwoTimesWhileInput\bin\Debug\netcoreapp3.1\03.PiratesSailTwoTimesWhileInput.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.PiratesSailTwoTimesWhileInput\bin\Debug\netcoreapp3.1\03.PiratesSailTwoTimesWhileInput.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.PiratesSailTwoTimesWhileInput\obj\Debug\netcoreapp3.1\03.PiratesSailTwoTimesWhileInput.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.PiratesSailTwoTimesWhileInput\obj\Debug\netcoreapp3.1\03.PiratesSailTwoTimesWhileInput.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.PiratesSailTwoTimesWhileInput\obj\Debug\netcoreapp3.1\03.PiratesSailTwoTimesWhileInput.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.PiratesSailTwoTimesWhileInput\obj\Debug\netcoreapp3.1\03.PiratesSailTwoTimesWhileInput.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.PiratesSailTwoTimesWhileInput\obj\Debug\netcoreapp3.1\03.PiratesSailTwoTimesWhileInput.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.PiratesSailTwoTimesWhileInput\obj\Debug\netcoreapp3.1\03.PiratesSailTwoTimesWhileInput.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.PiratesSailTwoTimesWhileInput\obj\Debug\netcoreapp3.1\03.PiratesSailTwoTimesWhileInput.genruntimeconfig.cache

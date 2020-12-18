@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\2.MirrorWordsRegex\bin\Debug\netcoreapp3.1\2.MirrorWordsRegex.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\2.MirrorWordsRegex\bin\Debug\netcoreapp3.1\2.MirrorWordsRegex.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\2.MirrorWordsRegex\bin\Debug\netcoreapp3.1\2.MirrorWordsRegex.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\2.MirrorWordsRegex\bin\Debug\netcoreapp3.1\2.MirrorWordsRegex.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\2.MirrorWordsRegex\bin\Debug\netcoreapp3.1\2.MirrorWordsRegex.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\2.MirrorWordsRegex\bin\Debug\netcoreapp3.1\2.MirrorWordsRegex.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\2.MirrorWordsRegex\obj\Debug\netcoreapp3.1\2.MirrorWordsRegex.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\2.MirrorWordsRegex\obj\Debug\netcoreapp3.1\2.MirrorWordsRegex.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\2.MirrorWordsRegex\obj\Debug\netcoreapp3.1\2.MirrorWordsRegex.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\2.MirrorWordsRegex\obj\Debug\netcoreapp3.1\2.MirrorWordsRegex.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\2.MirrorWordsRegex\obj\Debug\netcoreapp3.1\2.MirrorWordsRegex.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\2.MirrorWordsRegex\obj\Debug\netcoreapp3.1\2.MirrorWordsRegex.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\2.MirrorWordsRegex\obj\Debug\netcoreapp3.1\2.MirrorWordsRegex.genruntimeconfig.cache
