@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\26TriplesOfLatinLetters.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\26TriplesOfLatinLetters.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\26TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\26TriplesOfLatinLetters.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\26TriplesOfLatinLetters.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\26TriplesOfLatinLetters.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\26TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\26TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\26TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\26TriplesOfLatinLetters.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\26TriplesOfLatinLetters.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\26TriplesOfLatinLetters.genruntimeconfig.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\26TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\26TriplesOfLatinLetters.csprojAssemblyReference.cache
