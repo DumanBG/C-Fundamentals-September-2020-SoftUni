@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArraysOfIntegersSumThem.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArraysOfIntegersSumThem.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArraysOfIntegersSumThem.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArraysOfIntegersSumThem.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArraysOfIntegersSumThem.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArraysOfIntegersSumThem.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArraysOfIntegersSumThem.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArraysOfIntegersSumThem.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArraysOfIntegersSumThem.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArraysOfIntegersSumThem.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArraysOfIntegersSumThem.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArraysOfIntegersSumThem.genruntimeconfig.cache

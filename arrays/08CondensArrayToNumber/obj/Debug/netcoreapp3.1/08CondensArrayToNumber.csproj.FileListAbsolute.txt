@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08CondensArrayToNumber\bin\Debug\netcoreapp3.1\08CondensArrayToNumber.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08CondensArrayToNumber\bin\Debug\netcoreapp3.1\08CondensArrayToNumber.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08CondensArrayToNumber\bin\Debug\netcoreapp3.1\08CondensArrayToNumber.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08CondensArrayToNumber\bin\Debug\netcoreapp3.1\08CondensArrayToNumber.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08CondensArrayToNumber\bin\Debug\netcoreapp3.1\08CondensArrayToNumber.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08CondensArrayToNumber\bin\Debug\netcoreapp3.1\08CondensArrayToNumber.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08CondensArrayToNumber\obj\Debug\netcoreapp3.1\08CondensArrayToNumber.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08CondensArrayToNumber\obj\Debug\netcoreapp3.1\08CondensArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08CondensArrayToNumber\obj\Debug\netcoreapp3.1\08CondensArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08CondensArrayToNumber\obj\Debug\netcoreapp3.1\08CondensArrayToNumber.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08CondensArrayToNumber\obj\Debug\netcoreapp3.1\08CondensArrayToNumber.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08CondensArrayToNumber\obj\Debug\netcoreapp3.1\08CondensArrayToNumber.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\08CondensArrayToNumber\obj\Debug\netcoreapp3.1\08CondensArrayToNumber.genruntimeconfig.cache
