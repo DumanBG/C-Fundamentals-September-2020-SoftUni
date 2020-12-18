@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.genruntimeconfig.cache

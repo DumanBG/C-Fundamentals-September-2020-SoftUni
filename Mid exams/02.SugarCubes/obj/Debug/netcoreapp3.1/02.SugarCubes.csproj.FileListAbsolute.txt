@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.SugarCubes\bin\Debug\netcoreapp3.1\02.SugarCubes.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.SugarCubes\bin\Debug\netcoreapp3.1\02.SugarCubes.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.SugarCubes\bin\Debug\netcoreapp3.1\02.SugarCubes.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.SugarCubes\bin\Debug\netcoreapp3.1\02.SugarCubes.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.SugarCubes\bin\Debug\netcoreapp3.1\02.SugarCubes.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.SugarCubes\bin\Debug\netcoreapp3.1\02.SugarCubes.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.SugarCubes\obj\Debug\netcoreapp3.1\02.SugarCubes.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.SugarCubes\obj\Debug\netcoreapp3.1\02.SugarCubes.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.SugarCubes\obj\Debug\netcoreapp3.1\02.SugarCubes.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.SugarCubes\obj\Debug\netcoreapp3.1\02.SugarCubes.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.SugarCubes\obj\Debug\netcoreapp3.1\02.SugarCubes.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.SugarCubes\obj\Debug\netcoreapp3.1\02.SugarCubes.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.SugarCubes\obj\Debug\netcoreapp3.1\02.SugarCubes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.Messaging\bin\Debug\netcoreapp3.1\03.Messaging.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.Messaging\bin\Debug\netcoreapp3.1\03.Messaging.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.Messaging\bin\Debug\netcoreapp3.1\03.Messaging.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.Messaging\bin\Debug\netcoreapp3.1\03.Messaging.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.Messaging\bin\Debug\netcoreapp3.1\03.Messaging.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.Messaging\bin\Debug\netcoreapp3.1\03.Messaging.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.Messaging\obj\Debug\netcoreapp3.1\03.Messaging.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.Messaging\obj\Debug\netcoreapp3.1\03.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.Messaging\obj\Debug\netcoreapp3.1\03.Messaging.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.Messaging\obj\Debug\netcoreapp3.1\03.Messaging.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.Messaging\obj\Debug\netcoreapp3.1\03.Messaging.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.Messaging\obj\Debug\netcoreapp3.1\03.Messaging.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.Messaging\obj\Debug\netcoreapp3.1\03.Messaging.genruntimeconfig.cache
