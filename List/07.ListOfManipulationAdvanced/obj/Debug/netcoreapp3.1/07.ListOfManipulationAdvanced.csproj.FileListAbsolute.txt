@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07.ListOfManipulationAdvanced\bin\Debug\netcoreapp3.1\07.ListOfManipulationAdvanced.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07.ListOfManipulationAdvanced\bin\Debug\netcoreapp3.1\07.ListOfManipulationAdvanced.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07.ListOfManipulationAdvanced\bin\Debug\netcoreapp3.1\07.ListOfManipulationAdvanced.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07.ListOfManipulationAdvanced\bin\Debug\netcoreapp3.1\07.ListOfManipulationAdvanced.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07.ListOfManipulationAdvanced\bin\Debug\netcoreapp3.1\07.ListOfManipulationAdvanced.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07.ListOfManipulationAdvanced\bin\Debug\netcoreapp3.1\07.ListOfManipulationAdvanced.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07.ListOfManipulationAdvanced\obj\Debug\netcoreapp3.1\07.ListOfManipulationAdvanced.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07.ListOfManipulationAdvanced\obj\Debug\netcoreapp3.1\07.ListOfManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07.ListOfManipulationAdvanced\obj\Debug\netcoreapp3.1\07.ListOfManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07.ListOfManipulationAdvanced\obj\Debug\netcoreapp3.1\07.ListOfManipulationAdvanced.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07.ListOfManipulationAdvanced\obj\Debug\netcoreapp3.1\07.ListOfManipulationAdvanced.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07.ListOfManipulationAdvanced\obj\Debug\netcoreapp3.1\07.ListOfManipulationAdvanced.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\07.ListOfManipulationAdvanced\obj\Debug\netcoreapp3.1\07.ListOfManipulationAdvanced.genruntimeconfig.cache
