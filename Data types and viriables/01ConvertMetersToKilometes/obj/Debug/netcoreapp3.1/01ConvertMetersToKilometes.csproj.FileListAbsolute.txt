@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ConvertMetersToKilometes\bin\Debug\netcoreapp3.1\01ConvertMetersToKilometes.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ConvertMetersToKilometes\bin\Debug\netcoreapp3.1\01ConvertMetersToKilometes.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ConvertMetersToKilometes\bin\Debug\netcoreapp3.1\01ConvertMetersToKilometes.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ConvertMetersToKilometes\bin\Debug\netcoreapp3.1\01ConvertMetersToKilometes.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ConvertMetersToKilometes\bin\Debug\netcoreapp3.1\01ConvertMetersToKilometes.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ConvertMetersToKilometes\bin\Debug\netcoreapp3.1\01ConvertMetersToKilometes.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ConvertMetersToKilometes\obj\Debug\netcoreapp3.1\01ConvertMetersToKilometes.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ConvertMetersToKilometes\obj\Debug\netcoreapp3.1\01ConvertMetersToKilometes.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ConvertMetersToKilometes\obj\Debug\netcoreapp3.1\01ConvertMetersToKilometes.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ConvertMetersToKilometes\obj\Debug\netcoreapp3.1\01ConvertMetersToKilometes.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ConvertMetersToKilometes\obj\Debug\netcoreapp3.1\01ConvertMetersToKilometes.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ConvertMetersToKilometes\obj\Debug\netcoreapp3.1\01ConvertMetersToKilometes.genruntimeconfig.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01ConvertMetersToKilometes\obj\Debug\netcoreapp3.1\01ConvertMetersToKilometes.csprojAssemblyReference.cache

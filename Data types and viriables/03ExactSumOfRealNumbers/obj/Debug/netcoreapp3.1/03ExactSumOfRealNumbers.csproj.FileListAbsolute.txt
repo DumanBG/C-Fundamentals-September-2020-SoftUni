@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.genruntimeconfig.cache

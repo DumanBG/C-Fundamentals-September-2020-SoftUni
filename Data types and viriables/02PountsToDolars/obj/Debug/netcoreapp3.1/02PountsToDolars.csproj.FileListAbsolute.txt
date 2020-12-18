@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02PountsToDolars\bin\Debug\netcoreapp3.1\02PountsToDolars.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02PountsToDolars\bin\Debug\netcoreapp3.1\02PountsToDolars.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02PountsToDolars\bin\Debug\netcoreapp3.1\02PountsToDolars.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02PountsToDolars\bin\Debug\netcoreapp3.1\02PountsToDolars.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02PountsToDolars\bin\Debug\netcoreapp3.1\02PountsToDolars.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02PountsToDolars\bin\Debug\netcoreapp3.1\02PountsToDolars.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02PountsToDolars\obj\Debug\netcoreapp3.1\02PountsToDolars.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02PountsToDolars\obj\Debug\netcoreapp3.1\02PountsToDolars.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02PountsToDolars\obj\Debug\netcoreapp3.1\02PountsToDolars.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02PountsToDolars\obj\Debug\netcoreapp3.1\02PountsToDolars.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02PountsToDolars\obj\Debug\netcoreapp3.1\02PountsToDolars.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02PountsToDolars\obj\Debug\netcoreapp3.1\02PountsToDolars.genruntimeconfig.cache
