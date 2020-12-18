@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Demo\bin\Debug\netcoreapp3.1\01. 04ApriliGroupOneActivationKey.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Demo\bin\Debug\netcoreapp3.1\01. 04ApriliGroupOneActivationKey.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Demo\bin\Debug\netcoreapp3.1\01. 04ApriliGroupOneActivationKey.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Demo\bin\Debug\netcoreapp3.1\01. 04ApriliGroupOneActivationKey.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Demo\bin\Debug\netcoreapp3.1\01. 04ApriliGroupOneActivationKey.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Demo\bin\Debug\netcoreapp3.1\01. 04ApriliGroupOneActivationKey.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Demo\obj\Debug\netcoreapp3.1\01. 04ApriliGroupOneActivationKey.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Demo\obj\Debug\netcoreapp3.1\01. 04ApriliGroupOneActivationKey.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Demo\obj\Debug\netcoreapp3.1\01. 04ApriliGroupOneActivationKey.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Demo\obj\Debug\netcoreapp3.1\01. 04ApriliGroupOneActivationKey.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Demo\obj\Debug\netcoreapp3.1\01. 04ApriliGroupOneActivationKey.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Demo\obj\Debug\netcoreapp3.1\01. 04ApriliGroupOneActivationKey.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\01.Demo\obj\Debug\netcoreapp3.1\01. 04ApriliGroupOneActivationKey.genruntimeconfig.cache
