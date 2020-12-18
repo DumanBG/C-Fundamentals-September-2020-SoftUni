@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04.ListOfProductsAndSortThem\bin\Debug\netcoreapp3.1\04.ListOfProductsAndSortThem.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04.ListOfProductsAndSortThem\bin\Debug\netcoreapp3.1\04.ListOfProductsAndSortThem.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04.ListOfProductsAndSortThem\bin\Debug\netcoreapp3.1\04.ListOfProductsAndSortThem.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04.ListOfProductsAndSortThem\bin\Debug\netcoreapp3.1\04.ListOfProductsAndSortThem.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04.ListOfProductsAndSortThem\bin\Debug\netcoreapp3.1\04.ListOfProductsAndSortThem.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04.ListOfProductsAndSortThem\bin\Debug\netcoreapp3.1\04.ListOfProductsAndSortThem.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04.ListOfProductsAndSortThem\obj\Debug\netcoreapp3.1\04.ListOfProductsAndSortThem.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04.ListOfProductsAndSortThem\obj\Debug\netcoreapp3.1\04.ListOfProductsAndSortThem.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04.ListOfProductsAndSortThem\obj\Debug\netcoreapp3.1\04.ListOfProductsAndSortThem.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04.ListOfProductsAndSortThem\obj\Debug\netcoreapp3.1\04.ListOfProductsAndSortThem.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04.ListOfProductsAndSortThem\obj\Debug\netcoreapp3.1\04.ListOfProductsAndSortThem.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\04.ListOfProductsAndSortThem\obj\Debug\netcoreapp3.1\04.ListOfProductsAndSortThem.genruntimeconfig.cache
