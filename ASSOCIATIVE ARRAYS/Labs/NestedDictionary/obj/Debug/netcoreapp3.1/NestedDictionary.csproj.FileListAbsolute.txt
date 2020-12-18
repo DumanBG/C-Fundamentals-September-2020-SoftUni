@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\NestedDictionary\bin\Debug\netcoreapp3.1\NestedDictionary.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\NestedDictionary\bin\Debug\netcoreapp3.1\NestedDictionary.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\NestedDictionary\bin\Debug\netcoreapp3.1\NestedDictionary.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\NestedDictionary\bin\Debug\netcoreapp3.1\NestedDictionary.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\NestedDictionary\bin\Debug\netcoreapp3.1\NestedDictionary.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\NestedDictionary\bin\Debug\netcoreapp3.1\NestedDictionary.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\NestedDictionary\obj\Debug\netcoreapp3.1\NestedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\NestedDictionary\obj\Debug\netcoreapp3.1\NestedDictionary.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\NestedDictionary\obj\Debug\netcoreapp3.1\NestedDictionary.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\NestedDictionary\obj\Debug\netcoreapp3.1\NestedDictionary.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\NestedDictionary\obj\Debug\netcoreapp3.1\NestedDictionary.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\NestedDictionary\obj\Debug\netcoreapp3.1\NestedDictionary.genruntimeconfig.cache
