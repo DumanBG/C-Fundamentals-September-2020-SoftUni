@@ -1,0 +1,12 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\29SpaceMustFlow\bin\Debug\netcoreapp3.1\29SpaceMustFlow.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\29SpaceMustFlow\bin\Debug\netcoreapp3.1\29SpaceMustFlow.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\29SpaceMustFlow\bin\Debug\netcoreapp3.1\29SpaceMustFlow.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\29SpaceMustFlow\bin\Debug\netcoreapp3.1\29SpaceMustFlow.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\29SpaceMustFlow\bin\Debug\netcoreapp3.1\29SpaceMustFlow.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\29SpaceMustFlow\bin\Debug\netcoreapp3.1\29SpaceMustFlow.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\29SpaceMustFlow\obj\Debug\netcoreapp3.1\29SpaceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\29SpaceMustFlow\obj\Debug\netcoreapp3.1\29SpaceMustFlow.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\29SpaceMustFlow\obj\Debug\netcoreapp3.1\29SpaceMustFlow.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\29SpaceMustFlow\obj\Debug\netcoreapp3.1\29SpaceMustFlow.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\29SpaceMustFlow\obj\Debug\netcoreapp3.1\29SpaceMustFlow.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\29SpaceMustFlow\obj\Debug\netcoreapp3.1\29SpaceMustFlow.genruntimeconfig.cache
