@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.HeroesofCodeandLogic\bin\Debug\netcoreapp3.1\03.HeroesofCodeandLogic.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.HeroesofCodeandLogic\bin\Debug\netcoreapp3.1\03.HeroesofCodeandLogic.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.HeroesofCodeandLogic\bin\Debug\netcoreapp3.1\03.HeroesofCodeandLogic.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.HeroesofCodeandLogic\bin\Debug\netcoreapp3.1\03.HeroesofCodeandLogic.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.HeroesofCodeandLogic\bin\Debug\netcoreapp3.1\03.HeroesofCodeandLogic.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.HeroesofCodeandLogic\bin\Debug\netcoreapp3.1\03.HeroesofCodeandLogic.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.HeroesofCodeandLogic\obj\Debug\netcoreapp3.1\03.HeroesofCodeandLogic.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.HeroesofCodeandLogic\obj\Debug\netcoreapp3.1\03.HeroesofCodeandLogic.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.HeroesofCodeandLogic\obj\Debug\netcoreapp3.1\03.HeroesofCodeandLogic.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.HeroesofCodeandLogic\obj\Debug\netcoreapp3.1\03.HeroesofCodeandLogic.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.HeroesofCodeandLogic\obj\Debug\netcoreapp3.1\03.HeroesofCodeandLogic.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.HeroesofCodeandLogic\obj\Debug\netcoreapp3.1\03.HeroesofCodeandLogic.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\03.HeroesofCodeandLogic\obj\Debug\netcoreapp3.1\03.HeroesofCodeandLogic.genruntimeconfig.cache

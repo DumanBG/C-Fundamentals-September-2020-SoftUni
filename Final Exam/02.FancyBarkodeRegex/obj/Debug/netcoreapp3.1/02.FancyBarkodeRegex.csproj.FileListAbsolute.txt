@@ -1,0 +1,13 @@
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.FancyBarkodeRegex\bin\Debug\netcoreapp3.1\02.FancyBarkodeRegex.exe
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.FancyBarkodeRegex\bin\Debug\netcoreapp3.1\02.FancyBarkodeRegex.deps.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.FancyBarkodeRegex\bin\Debug\netcoreapp3.1\02.FancyBarkodeRegex.runtimeconfig.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.FancyBarkodeRegex\bin\Debug\netcoreapp3.1\02.FancyBarkodeRegex.runtimeconfig.dev.json
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.FancyBarkodeRegex\bin\Debug\netcoreapp3.1\02.FancyBarkodeRegex.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.FancyBarkodeRegex\bin\Debug\netcoreapp3.1\02.FancyBarkodeRegex.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.FancyBarkodeRegex\obj\Debug\netcoreapp3.1\02.FancyBarkodeRegex.csprojAssemblyReference.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.FancyBarkodeRegex\obj\Debug\netcoreapp3.1\02.FancyBarkodeRegex.csproj.CoreCompileInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.FancyBarkodeRegex\obj\Debug\netcoreapp3.1\02.FancyBarkodeRegex.AssemblyInfoInputs.cache
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.FancyBarkodeRegex\obj\Debug\netcoreapp3.1\02.FancyBarkodeRegex.AssemblyInfo.cs
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.FancyBarkodeRegex\obj\Debug\netcoreapp3.1\02.FancyBarkodeRegex.dll
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.FancyBarkodeRegex\obj\Debug\netcoreapp3.1\02.FancyBarkodeRegex.pdb
+C:\Users\teeedi\source\repos\CSharpFundamentalsSeptember2020\02.FancyBarkodeRegex\obj\Debug\netcoreapp3.1\02.FancyBarkodeRegex.genruntimeconfig.cache
